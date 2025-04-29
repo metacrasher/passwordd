@@ -1,8 +1,10 @@
-] 
-  { 
-"Password": "fadsukaminum",
-"Status" : "Active",
-"Date": " 29 Apr 2025"
-  }
-]
-
+{
+  "secretCode": "fadsukaminum",
+  "description": "PREMIUMKEY",
+  "lastUpdated": "25-04-014",
+  "author": "fad",
+  "status": "Active",
+  "license": "MIT",
+  "version": "1.0.0"
+}
+  
